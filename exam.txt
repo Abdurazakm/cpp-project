@@ -1,0 +1,3 @@
+this is the your result 1st semister of fundamental computer programming:
+mid	project	finally
+23	43	12
